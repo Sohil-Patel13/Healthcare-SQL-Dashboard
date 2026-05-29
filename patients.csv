@@ -1,0 +1,16 @@
+PatientID,Age,Diagnosis,LengthOfStay,Readmitted
+1001,72,CHF,7,Yes
+1002,55,Diabetes,3,No
+1003,68,COPD,5,Yes
+1004,44,Hypertension,2,No
+1005,81,CHF,8,Yes
+1006,60,Diabetes,4,No
+1007,75,COPD,6,Yes
+1008,50,Hypertension,2,No
+1009,66,CHF,5,Yes
+1010,58,Diabetes,3,No
+1011,79,COPD,7,Yes
+1012,46,Hypertension,2,No
+1013,70,CHF,6,Yes
+1014,53,Diabetes,4,No
+1015,74,COPD,5,Yes
