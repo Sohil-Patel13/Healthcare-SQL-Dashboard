@@ -1,6 +1,6 @@
 # Healthcare SQL Analytics Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 An interactive healthcare analytics dashboard built using Python, SQL concepts, and Streamlit to analyze patient outcomes, readmission trends, and length-of-stay metrics.
 
